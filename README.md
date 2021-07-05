@@ -1,4 +1,4 @@
-# AngularExample
+# Angular
 
 ## Component Styles
 
